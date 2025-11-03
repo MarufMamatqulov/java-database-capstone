@@ -1,0 +1,17 @@
+﻿{
+    "id":  6,
+    "user":  {
+                 "id":  8,
+                 "username":  null,
+                 "password":  null,
+                 "email":  null,
+                 "role":  null,
+                 "createdAt":  null
+             },
+    "firstName":  "Test",
+    "lastName":  "Patient",
+    "dateOfBirth":  "1990-01-01",
+    "phone":  "555-0101",
+    "address":  "123 Test St",
+    "medicalHistory":  "None"
+}

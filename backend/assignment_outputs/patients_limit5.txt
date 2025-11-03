@@ -1,0 +1,6 @@
+﻿id	user_id	first_name	last_name	date_of_birth	phone	address	medical_history
+1	3	Alice	Smith	1990-01-01	+1111111111	123 Main St	None
+2	4	Bob	Johnson	1985-05-12	+2222222222	456 Oak Ave	Asthma
+3	5	Carol	Williams	1978-03-22	+3333333333	789 Pine Rd	Diabetes
+4	6	David	Brown	1992-07-07	+4444444444	321 Elm St	None
+5	7	Eve	Davis	1988-11-30	+5555555555	654 Maple Ave	Hypertension

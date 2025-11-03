@@ -1,0 +1,1 @@
+[{"id":1,"user":{"id":2,"username":"doctor1","password":"$2a$10$doc","email":"doc1@example.com","role":"DOCTOR","createdAt":"2025-11-03T12:15:41Z"},"firstName":"John","lastName":"Doe","specialty":"Cardiology","phone":"+1234567890","licenseNumber":"LIC-001"}]
