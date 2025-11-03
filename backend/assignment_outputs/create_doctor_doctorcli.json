@@ -1,0 +1,16 @@
+﻿{
+    "id":  2,
+    "user":  {
+                 "id":  10,
+                 "username":  null,
+                 "password":  null,
+                 "email":  null,
+                 "role":  null,
+                 "createdAt":  null
+             },
+    "firstName":  "John",
+    "lastName":  "Clinic",
+    "specialty":  "Dermatology",
+    "phone":  "+199999999",
+    "licenseNumber":  "LIC-DO-001"
+}
