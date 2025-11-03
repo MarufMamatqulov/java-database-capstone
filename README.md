@@ -95,8 +95,7 @@ Example `SHOW TABLES` output:
 ```
 
 Example stored procedure call (MySQL):
-```sql
-CALL GetDailyAppointmentsByDoctor(1, '2025-11-03');
+```![1762171331705](image/README/1762171331705.png)
 ```
 
 ## How to produce screenshots requested
