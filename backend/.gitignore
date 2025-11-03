@@ -1,0 +1,27 @@
+# Java
+*.class
+*.log
+target/
+
+# Maven wrapper
+.mvn/
+!mvnw
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Lombok
+ lombok.config
+
+# OS
+Thumbs.db
+.DS_Store
+
+# environment
+.env
